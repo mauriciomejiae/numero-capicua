@@ -1,0 +1,5 @@
+C:\Users\Mauricio M\Downloads\numero capicua\numero capicua\bin\Debug\numero capicua.exe.config
+C:\Users\Mauricio M\Downloads\numero capicua\numero capicua\bin\Debug\numero capicua.exe
+C:\Users\Mauricio M\Downloads\numero capicua\numero capicua\bin\Debug\numero capicua.pdb
+C:\Users\Mauricio M\Downloads\numero capicua\numero capicua\obj\Debug\numero capicua.exe
+C:\Users\Mauricio M\Downloads\numero capicua\numero capicua\obj\Debug\numero capicua.pdb
